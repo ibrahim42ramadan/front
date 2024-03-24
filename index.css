@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  align-items: center;
+  background-color: aqua;
+  flex-direction: column;
+  width: 200px;
+  height: 200px;
+  justify-content: center;
+}
+.app button {
+  display: inline-block;
+}
